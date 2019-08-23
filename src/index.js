@@ -11,3 +11,7 @@ try {
 }
 
 console.log("Calculated price:", calculatedPrice);
+
+/*
+  I like to put this code block in a separate file.
+*/

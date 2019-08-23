@@ -49,3 +49,9 @@ describe("New Product price calculator for different users", function() {
     expect(expected).to.equal(actual);
   });
 });
+
+/*
+  There was only one test case, and I don't think it is good enough for production quality.
+  I added a couple more cases to the test.
+  To make the tests even more robust, we can add negative price cases and other edge cases in the future.
+*/

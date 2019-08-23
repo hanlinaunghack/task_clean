@@ -21,3 +21,7 @@ var calculatePrice = function(userType, productType, price, publishedDate) {
   }
   return 0;
 };
+/*
+  Instead of using switch cases I used multiplication because there are only 2 types of products
+  In the future if there are going to be more types of products, we can create a class and instantiate from the prototype
+*/
